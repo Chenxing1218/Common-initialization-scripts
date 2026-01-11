@@ -3,6 +3,7 @@
 ```bash
 # 下载脚本
 curl -fsSLO https://raw.githubusercontent.com/Chenxing1218/Common-initialization-scripts/main/V1_0.sh
+#不行可以换成wget https://raw.githubusercontent.com/Chenxing1218/Common-initialization-scripts/main/V1_0.sh
 
 # 添加执行权限
 chmod +x V1_0.sh
